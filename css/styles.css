@@ -7,7 +7,7 @@ h1 {
   color: #4ecca3;
   font-family: 'Lobster', cursive;
   font-size: 8rem;
-  margin: 5% 10%;
+  margin: 3% 10% 5%;
   text-align: center;
 }
 
@@ -15,7 +15,7 @@ h2 {
   color: #4ecca3;
   font-family: 'Indie Flower', cursive;
   font-size: 2rem;
-  margin-bottom: 3rem;
+  margin-bottom: 2rem;
 }
 
 .dice-row {
@@ -28,4 +28,11 @@ h2 {
 
 .dice {
   width: 200px;
+}
+
+footer {
+  color: #eeeeee;
+  font-family: 'Indie Flower', cursive;
+  font-size: 1rem;
+  text-align: center;
 }

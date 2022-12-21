@@ -16,6 +16,16 @@ h2 {
   font-family: 'Indie Flower', cursive;
   font-size: 2rem;
   margin-bottom: 3rem;
-  margin-top: 2rem;
+}
+
+.dice-row {
+  margin: 3rem 15%;
+}
+
+.player-col {
   text-align: center;
+}
+
+.dice {
+  width: 200px;
 }

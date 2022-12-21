@@ -10,3 +10,12 @@ h1 {
   margin: 5% 10%;
   text-align: center;
 }
+
+h2 {
+  color: #4ecca3;
+  font-family: 'Indie Flower', cursive;
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  margin-top: 2rem;
+  text-align: center;
+}

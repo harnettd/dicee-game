@@ -1,4 +1,3 @@
-
 var randomNumber1 = rollD6();
 var randomNumber2 = rollD6();
 var d6Image1 = "images/dice" + randomNumber1 + ".png";
@@ -8,6 +7,14 @@ var d6Image2 = "images/dice" + randomNumber2 + ".png";
 // console.log(d6Image2);
 document.querySelector("#player-1 .dice").setAttribute("src", d6Image1);
 document.querySelector("#player-2 .dice").setAttribute("src", d6Image2);
+
+if (randomNumber1 > randomNumber2) {
+  document.querySelector("h1").innerHTML = "🚩 Player 1 Wins!";
+} else if (randomNumber2 > randomNumber1) {
+  document.querySelector("h1").innerHTML = "Player 2 Wins! 🚩";
+} else {
+  document.querySelector("h1").innerHTML = "Draw!";
+}
 
 function rollD6() {
   return Math.floor(6 * Math.random()) + 1;

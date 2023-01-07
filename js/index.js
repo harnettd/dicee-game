@@ -7,8 +7,8 @@ var h1 = document.querySelector("h1");
 
 // console.log(d6Image1);
 // console.log(d6Image2);
-document.querySelector("#player-1 .dice").setAttribute("src", d6Image1);
-document.querySelector("#player-2 .dice").setAttribute("src", d6Image2);
+document.querySelector("#player-1 .die-image").setAttribute("src", d6Image1);
+document.querySelector("#player-2 .die-image").setAttribute("src", d6Image2);
 
 if (randomNumber1 > randomNumber2) {
   h1.innerHTML = "🚩 Player 1 Wins!";

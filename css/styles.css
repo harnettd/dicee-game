@@ -10,7 +10,7 @@ h1 {
   color: #4ecca3;
   font-family: 'Lobster', cursive;
   font-size: 8rem;
-  margin: 3% 10% 5%;
+  margin: 2rem 10% 3rem;
   text-align: center;
 }
 
@@ -18,11 +18,11 @@ h2 {
   color: #4ecca3;
   font-family: 'Indie Flower', cursive;
   font-size: 2rem;
-  margin-bottom: 2rem;
+  margin-bottom: 1rem;
 }
 
 .game-container {
-  margin-bottom: 10%;
+  margin-bottom: 3rem;
 }
 
 .die-image {

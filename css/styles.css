@@ -8,12 +8,9 @@ body {
   font-family: 'Indie Flower', cursive;
 }
 
-h1 {
-  color: #4ecca3;
+.result {
   font-family: 'Lobster', cursive;
   font-size: 8rem;
-  margin: 2rem 10% 3rem;
-  text-align: center;
 }
 
 .player-label {
@@ -26,7 +23,5 @@ h1 {
 
 footer {
   color: #eeeeee;
-  font-family: 'Indie Flower', cursive;
-  font-size: 1rem;
   text-align: center;
 }

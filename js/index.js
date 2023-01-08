@@ -3,7 +3,7 @@ var randomNumber2 = rollD6();
 var imgDir = "images/"
 var d6Image1 = imgDir + "dice" + randomNumber1 + ".png";
 var d6Image2 = imgDir + "dice" + randomNumber2 + ".png";
-var h1 = document.querySelector("h1");
+var h1 = document.querySelector(".h1");
 
 // console.log(d6Image1);
 // console.log(d6Image2);

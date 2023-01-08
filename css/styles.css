@@ -4,6 +4,8 @@ html {
 
 body {
   background-color: #393e46;
+  color: #4ecca3;
+  font-family: 'Indie Flower', cursive;
 }
 
 h1 {
@@ -14,15 +16,12 @@ h1 {
   text-align: center;
 }
 
-h2 {
-  color: #4ecca3;
-  font-family: 'Indie Flower', cursive;
-  font-size: 2rem;
-  margin-bottom: 1rem;
-}
-
 .game-container {
   margin-bottom: 3rem;
+}
+
+.player-label {
+  font-size: 2rem;
 }
 
 .die-image {

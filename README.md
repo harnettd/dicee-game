@@ -16,6 +16,9 @@
 
 ### Links
 
+- Solution URL: [https://github.com/harnettd/dicee-game](https://github.com/harnettd/dicee-game)
+- Live Site URL: [https://harnettd.github.io/dicee-game/](https://harnettd.github.io/dicee-game/)
+
 ## Built With
 
 - HTML5

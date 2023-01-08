@@ -2,11 +2,11 @@
 
 ## Table of Contents
 
-- Overview
-  - Screenshot
-  - Links
-- Built With
-- Author
+- [Overview](#overview)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [Built With](#built-with)
+- [Author](#author)
 
 ## Overview
 
@@ -17,3 +17,6 @@
 ## Built With
 
 ## Author
+
+- Github - [Derek Harnett](https://github.com/harnettd)
+- Frontend Mentor - [@harnettd](https://www.frontendmentor.io/profile/harnettd)
